@@ -16,5 +16,5 @@ I live in Vancouver, BC, Canada, and also enjoy photography, and hiking.
 
 I don't post very often, but I am available on:
 
-- Twitter as @nuntz
+- Twitter as [@nuntz](https://twitter.com/nuntz)
 - Fediverse/Mastodon as [@nicolas@fediverse.untz.net](https://fediverse.untz.net/@nicolas)
