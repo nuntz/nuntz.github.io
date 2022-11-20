@@ -1,0 +1,4 @@
+{
+    "name": "Jekyll environment",
+    "image": "jekyll/jekyll"
+}
