@@ -21,7 +21,7 @@
 title: nuntz.com
 email: info@nuntz.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The minimalist website of Nicolas Untz.
+  The very minimalist website of Nicolas Untz.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nuntz.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nuntz

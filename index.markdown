@@ -4,17 +4,12 @@
 
 layout: default
 ---
-## nuntz.com
+Hi! I am Nicolas, I work as an IT leader in Fintech and I have over 20 year of experience in IT Operations and Software Development. I like working on challenging problems with global teams.
 
-Hi, I am Nicolas, and I work as an IT leader in Fintech with 20 years+ experience
-in IT Operations and Software Development. I enjoy working on challenging problems
-with global teams.
-
-I live in Vancouver, BC, Canada, and also enjoy photography, and hiking.
-
-## Social
+I live in Vancouver, BC, Canada, and also enjoy photography, reading, and hiking.
 
 I don't post very often, but I am available on:
 
-- Twitter as [@nuntz](https://twitter.com/nuntz)
-- Fediverse/Mastodon as [@nicolas@fediverse.untz.net](https://fediverse.untz.net/@nicolas)
+- <i class="fa-brands fa-twitter"></i> Twitter as [@nuntz](https://twitter.com/nuntz)
+- <i class="fa-brands fa-mastodon"></i> Fediverse/Mastodon as [@nicolas@fediverse.untz.net](https://fediverse.untz.net/@nicolas)
+- <i class="fa-brands fa-linkedin"></i> Linkedin as [nuntz](https://ca.linkedin.com/in/nuntz)
