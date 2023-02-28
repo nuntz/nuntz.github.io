@@ -4,7 +4,7 @@
 
 layout: default
 ---
-Hi! I am Nicolas, I work as an IT leader in Fintech and I have over 20 year of experience in IT Operations and Software Development. I like working on challenging problems with global teams.
+Hi! I am Nicolas, I work as an IT leader in Fintech and I have over 25 year of experience in IT Operations and Software Development. I like working on challenging problems with global teams.
 
 I live in Vancouver, BC, Canada, and also enjoy photography, reading, and hiking.
 
