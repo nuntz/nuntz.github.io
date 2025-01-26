@@ -6,7 +6,7 @@ layout: default
 ---
 Hi! I am Nicolas, I work as an IT leader in Fintech and I have over 20 year of experience in IT Operations and Software Development. I like working on challenging problems with global teams.
 
-I live in Vancouver, BC, Canada, and also enjoy photography, reading, and hiking.
+I live in Vancouver, BC, Canada, and also enjoy [photography](https://pixelfed.social/nuntz), reading, and hiking.
 
 I don't post very often, but I am available on:
 
